@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Uppgift1, Configuration: Debug Any CPU ------
+1>Uppgift1 -> C:\Users\jiti0001\source\repos\Uppgift1\Uppgift1\bin\Debug\net6.0\Uppgift1.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
